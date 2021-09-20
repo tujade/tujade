@@ -14,6 +14,8 @@
   <img align="center" alt="Jade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Jade-img" src="https://user-images.githubusercontent.com/86531281/133997723-5f5e5045-fb7d-48d9-96e4-0c46c5953743.gif">
 </div>
+ 
+ ##
 
  <div>
   <a href="https://www.instagram.com/tu_jad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
