@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou a Jade Diniz
-- 💻 Atualmente trabalho com Power Platform
+- 💻 Atualmente trabalhando com desenvolvimento em Power Platform
 - 🌱 Estudando Desenvolvimento Web / Fullstack JavaScript
  <div> 
   <a href="https://github.com/tujade">
