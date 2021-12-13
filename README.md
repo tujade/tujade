@@ -15,7 +15,7 @@
   <img align="center" alt="Jade-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jade-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/5edcbef9d645698c43e6a029ddadf4a0.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/5edcbef9d645698c43e6a029ddadf4a0.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
  
  ##
